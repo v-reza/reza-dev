@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reza-dev/static/css/main.073c9b0a.css",
+    "main.js": "/reza-dev/static/js/main.67ee7153.js",
+    "static/js/787.f1f7f648.chunk.js": "/reza-dev/static/js/787.f1f7f648.chunk.js",
+    "service-worker.js": "/reza-dev/service-worker.js",
+    "static/media/logo.svg": "/reza-dev/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/reza-dev/index.html",
+    "main.073c9b0a.css.map": "/reza-dev/static/css/main.073c9b0a.css.map",
+    "main.67ee7153.js.map": "/reza-dev/static/js/main.67ee7153.js.map",
+    "787.f1f7f648.chunk.js.map": "/reza-dev/static/js/787.f1f7f648.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.67ee7153.js"
+  ]
+}
