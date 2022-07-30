@@ -169,7 +169,7 @@ export default function CloudInfraImg(props) {
         transform="translate(-167.6 -120.78)"
         fill="#fff"
       />
-      <g opacity="0.7">
+      {/* <g opacity="0.7">
         <rect
           x="682.04"
           y="387"
@@ -203,9 +203,9 @@ export default function CloudInfraImg(props) {
         d="M1005.77,606.55c-2-2.59-13.31-1.25-18.44-.62-1.53.19-1.77-1.15-.38-2.16,9-6.32,23.8-4.5,25.53-2.39s-.48,17-8.91,24c-1.29,1.1-2.54.53-2-.91C1003.52,619.76,1007.78,609.08,1005.77,606.55Z"
         transform="translate(-167.6 -120.78)"
         fill="#f90"
-      />
+      /> */}
       <g opacity="0.7">
-        <rect
+        {/* <rect
           x="573.04"
           y="115"
           width="182.77"
@@ -213,9 +213,9 @@ export default function CloudInfraImg(props) {
           rx="21.34"
           ry="21.34"
           fill="url(#43bfcda2-dcfb-4411-a28b-16db327cb63c)"
-        />
+        /> */}
       </g>
-      <rect
+      {/* <rect
         x="576.42"
         y="118"
         width="176"
@@ -223,8 +223,8 @@ export default function CloudInfraImg(props) {
         rx="21.34"
         ry="21.34"
         fill={theme.imageDark}
-      />
-      <path
+      /> */}
+      {/* <path
         d="M807.53,357.41l-23.66-41,23.66-41h47.31l23.66,41-23.66,41H807.53"
         transform="translate(-167.6 -120.78)"
         fill="#cac9c2"
@@ -278,7 +278,7 @@ export default function CloudInfraImg(props) {
         d="M804.37,367.68a3.56,3.56,0,1,1,3.56-3.56,3.56,3.56,0,0,1-3.56,3.56m-27.74-47.42a3.56,3.56,0,1,1,3.56-3.56,3.56,3.56,0,0,1-3.56,3.56"
         transform="translate(-167.6 -120.78)"
         fill="#fff"
-      />
+      /> */}
     </svg>
   );
 }

@@ -1,14 +1,14 @@
 {
   "private": true,
-  "name": "personalPortfolio",
-  "homepage": "http://vedanshv.tech/",
+  "name": "reza-dev",
   "version": "1.0.0",
+  "homepage": "https://reza-dev.me",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject",
-    "start": "react-scripts start",
+    "start": "set PORT=3400 && react-scripts start",
     "test": "react-scripts test"
   },
   "dependencies": {
@@ -32,7 +32,19 @@
     "react-scripts": "^3.4.4",
     "styled-components": "^5.2.1",
     "styletron-engine-atomic": "^1.4.6",
-    "styletron-react": "^5.2.7"
+    "styletron-react": "^5.2.7",
+    "workbox-background-sync": "^6.5.4",
+    "workbox-broadcast-update": "^6.5.4",
+    "workbox-cacheable-response": "^6.5.4",
+    "workbox-core": "^6.5.4",
+    "workbox-expiration": "^6.5.4",
+    "workbox-google-analytics": "^6.5.4",
+    "workbox-navigation-preload": "^6.5.4",
+    "workbox-precaching": "^6.5.4",
+    "workbox-range-requests": "^6.5.4",
+    "workbox-routing": "^6.5.4",
+    "workbox-strategies": "^6.5.4",
+    "workbox-streams": "^6.5.4"
   },
   "devDependencies": {
     "@iconify/icons-logos": "^1.1.5",
